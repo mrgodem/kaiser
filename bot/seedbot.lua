@@ -238,6 +238,7 @@ function create_config( )
 	"anti_links",
 	"chat",
 	"addbot",
+	"filter",
 	"addadmin"
     },
     sudo_users = {269268739,202093033,(our_id)},--Sudo users
