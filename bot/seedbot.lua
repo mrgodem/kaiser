@@ -233,7 +233,7 @@ function create_config( )
 	"msg_checks",
 	"info",
 	"id",
-	"aboutme",
+	"rsmg",
 	"addadmin"
     },
     sudo_users = {269268739,202093033,(our_id)},--Sudo users
