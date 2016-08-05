@@ -234,6 +234,9 @@ function create_config( )
 	"info",
 	"id",
 	"rsmg",
+	"lock_bots",
+	"anti_links",
+	"chat",
 	"addadmin"
     },
     sudo_users = {269268739,202093033,(our_id)},--Sudo users
